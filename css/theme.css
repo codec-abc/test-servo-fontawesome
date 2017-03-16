@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('fontawesome-webfont.woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  font-family: 'FontAwesome';
+  src: url('fontawesome-webfont.woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
